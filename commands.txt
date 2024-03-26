@@ -1,0 +1,17 @@
+
+python --version
+python -m venv .venv
+.venv\scripts\activate  
+
+python -m pip install pyfiglet
+pip install log4python
+pip install fire # dependency for log4python
+pip freeze > requirements.txt
+
+pip install -r requirements.txt
+
+python .\main.py    
+
+#issues with pip
+python -m pip install -U pip
+python -m ensurepip

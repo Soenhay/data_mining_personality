@@ -1,0 +1,70 @@
+{
+    "quest_count": 100,
+    "player_count": 10,
+    "personalities": [
+        {
+            "type": "ISTJ",
+            "description": "The Inspector"
+        },
+        {
+            "type": "ISTP",
+            "description": "The Crafter"
+        },
+        {
+            "type": "ISFJ",
+            "description": "The Protector"
+        },
+        {
+            "type": "ISFP",
+            "description": "The Artist"
+        },
+        {
+            "type": "INFJ",
+            "description": "The Advocate"
+        },
+        {
+            "type": "INFP",
+            "description": "The Mediator"
+        },
+        {
+            "type": "INTJ",
+            "description": "The Architect"
+        },
+        {
+            "type": "INTP",
+            "description": "The Thinker"
+        },
+        {
+            "type": "ESTP",
+            "description": "The Persuader"
+        },
+        {
+            "type": "ESTJ",
+            "description": "The Director"
+        },
+        {
+            "type": "ESFP",
+            "description": "The Performer"
+        },
+        {
+            "type": "ESFJ",
+            "description": "The Caregiver"
+        },
+        {
+            "type": "ENFP",
+            "description": "The Champion"
+        },
+        {
+            "type": "ENFJ",
+            "description": "The Giver"
+        },
+        {
+            "type": "ENTP",
+            "description": "The Debater"
+        },
+        {
+            "type": "ENTJ",
+            "description": "The Commander"
+        }
+    ]
+}
